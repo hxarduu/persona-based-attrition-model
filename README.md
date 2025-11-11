@@ -1,6 +1,6 @@
 # Employee Attrition Prediction: Comprehensive ML Analysis
 
-**Authors:** Aryan Kant, Hardik Gussain, Advait Hegde  
+**Authors:** Aryan Kant, Hardik Singh Gusain, Advait Hegde  
 **Institution:** Goa Institute of Management  
 **Course:** Big Data Analytics
 
@@ -241,7 +241,7 @@ Based on model insights:
 ## 👥 Authors
 
 - **Aryan Kant** (B2025010) - aryan.kant25b@gim.ac.in
-- **Hardik Gussain** (B2025021) - hardik.gussain25b@gim.ac.in
+- **Hardik Singh Gusain** (B2025021) - hardik.gusain25b@gim.ac.in
 - **Advait Hegde** (B2025005) - advait.hegde25b@gim.ac.in
 
 ---
